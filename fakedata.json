@@ -1,0 +1,44 @@
+[
+    {
+      "id": 5001,
+      "name": "Lasik surgery",
+      "cost": 300,
+      "description": "LASIK or Lasik, commonly referred to as laser eye surgery or laser vision correction, is a type of refractive surgery for the correction of myopia, hyperopia, and astigmatism.",
+      "img": "https://healthblog.uofmhealth.org/sites/consumer/files/2017-12/michigan-med-c-lasik-cost-vs-risk.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "Prk surgery",
+      "cost": 300,
+      "description": "Photorefractive keratectomy (PRK) is a type of laser eye surgery used to treat nearsightedness, farsightedness, and astigmatism by reshaping the cornea. ",
+      "img": "https://www.datocms-assets.com/30637/1595364276-prk-vision-correction-video.jpeg"
+    },
+    {
+      "id": 5003,
+      "name": "Cataract surgery",
+      "cost": 300,
+      "description": "Cataract surgery involves replacing the cloudy lens inside your eye with an artificial one. It has a high success rate in improving your eyesight. It can take 2 to 6 weeks to fully recover from cataract surgery.",
+      "img": "https://www.sweye.com/wp-content/uploads/2019/04/doctor-performing-eye-surgery-in-modern-clinic1.jpg"
+    },
+    {
+      "id": 5004,
+      "name": "Glaucoma surgery",
+      "cost": 300,
+      "description": "The most common type of surgery for glaucoma is called trabeculectomy. It involves removing part of the eye-drainage tubes to allow fluid to drain more easily. Glaucoma surgery may be carried out under local anaesthetic",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILW-lPK_o35Ngn0t6f4o8pxZ4iJ7KnDH9_62977GGMX-9h2GAh_CVWBOOsEpf1Sh2fS4&usqp=CAU"
+    },
+    {
+      "id": 5005,
+      "name": "Diabatic Retinopathic surgery",
+      "cost": 300,
+      "description": "This procedure uses a tiny incision in your eye to remove blood from the middle of the eye (vitreous) as well as scar tissue thats tugging on the retina.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhvRBGlrB0k2O0tvEGmoEvVHV8rKxwYNUjxnDfgcoaBPeub27jo2Oorw4XMYuHJ5SPxk&usqp=CAU"
+    },
+    {
+      "id": 5006,
+      "name": "Pterygium surgery",
+      "cost": 300,
+      "description": "Pterygium surgery is a procedure performed to remove noncancerous conjunctiva growths (pterygia) from the eye. The conjunctiva is the clear tissue covering the white part of the eye and the inside of the eyelids. Some cases of a pterygium produce little to no symptoms.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw74hqbjnta9u3OnKBoeKX4qpgQ3OYLjdlRDkJgmdV_-_58wRkviVZOaobf9o4i6s97Bg&usqp=CAU"
+    }
+  ]
